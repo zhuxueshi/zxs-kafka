@@ -1,0 +1,8 @@
+#服务prot
+server:
+  port : 20001
+
+#kafka相关
+kafka:
+  brokers : 119.23.42.209:9092
+  groupid : test-group

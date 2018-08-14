@@ -1,0 +1,9 @@
+com\caiyi\financial\data\Application.class
+com\caiyi\financial\data\service\MsgProducer.class
+com\caiyi\financial\data\service\MsgProducer$1.class
+com\caiyi\financial\data\kafka\Listener.class
+com\caiyi\financial\data\kafka\KafkaConsumerConfig.class
+com\caiyi\financial\data\kafka\KafkaProducerConfig.class
+com\caiyi\financial\data\controller\Controller.class
+com\caiyi\financial\data\service\MsgConsumer.class
+com\caiyi\financial\data\service\MsgProducer$2.class
