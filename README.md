@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-data-kafka2
 springboot kafka集成
 
@@ -40,3 +41,7 @@ public class TestProducer {
         kafkaTemplate.send("test", "11111111111");
     }
 }
+=======
+# zxs-kafka
+测试kafka生产者发送消费和消费者消费消息，并且监听消费被消费
+>>>>>>> branch 'master' of https://github.com/zhuxueshi/zxs-kafka.git
